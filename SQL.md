@@ -178,3 +178,5 @@ SQL (Structured Query Language) is a standard language for accessing and manipul
     ```sql
     SHOW GRANTS FOR 'username'@'host';
     ```
+
+[MySQL docs](https://dev.mysql.com/doc/)
